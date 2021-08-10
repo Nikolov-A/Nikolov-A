@@ -1,4 +1,16 @@
-<h3 style="font-size:100px;" align="center">Hi there! 👋 </h3>
+<style>
+h3 { 
+  display: block;
+  font-size: 2.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+</style>
+
+<h3 align="center">Hi there! 👋 </h3>
 <h2 align="center">Welcome to my personal GitHub profile! :sunglasses:</h2>
 <h2 align="center">Favourite quote</h2>
 <p>![Picture](https://i.ibb.co/XDNrzqN/done-is-better-than-perfect.png)</p>
