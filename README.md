@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋
-<br>Welcome to my personal Git Hub profile! "sunglasses:</br></h1>
-<h3 align="center">Welcome to my personal GitHub profile! :sunglasses:</h3>
+<br>Welcome to my personal Git Hub profile! sunglasses:</br></h1>
+
 <h2 align="center">Favourite quote</h2>
 <h1 align="center">![Picture](https://i.ibb.co/XDNrzqN/done-is-better-than-perfect.png)</h1>
 <h2 align="center">🌱 Who I am?</h2>
