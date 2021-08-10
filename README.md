@@ -1,7 +1,6 @@
 ### Hi there! 👋
 ### Welcome to my personal GitHub profile! :sunglasses:
-
-
+(![github](/https://i.ibb.co/713mG0L/done-is-better-than-perfect.png))
 
 
 ### 🌱  Who I am? 
