@@ -1,7 +1,5 @@
 
-### <h2 align="center">Heading</h3>
-
-<h3 size="3em" align="center">Hi there! 👋 </h3>
+<h3 size=".32em" align="center">Hi there! 👋 </h3>
 <h2 align="center">Welcome to my personal GitHub profile! :sunglasses:</h2>
 <h2 align="center">Favourite quote</h2>
 <p>![Picture](https://i.ibb.co/XDNrzqN/done-is-better-than-perfect.png)</p>
