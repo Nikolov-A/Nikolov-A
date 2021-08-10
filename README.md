@@ -2,7 +2,7 @@
 ### Welcome to my personal GitHub profile! :sunglasses:
 
 ### Favourite quote
-![Picture](https://i.ibb.co/713mG0L/done-is-better-than-perfect.png)
+![Picture](https://i.ibb.co/DbF6kL9/done-is-better-than-perfect.png)
 
 
 ### 🌱  Who I am? 
