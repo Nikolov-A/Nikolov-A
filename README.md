@@ -11,6 +11,5 @@
 <br>- I've done multiple projects, which helped me to get familiar with data analytics job, and to realise that, this is for me.</br>
 
 
-<h1 align="center">__________________________________________</h1>
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="50" /></h2>
 <h1 align="center"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&amp;logoColor=white&amp;style=flat" height="40" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&amp;logoColor=white&amp;style=flat" height="40" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&amp;logoColor=white&amp;style=flat" height="40" /> <img src="https://img.shields.io/badge/-Tableau-315F85?logo=tableau&amp;logoColor=white&amp;style=flat" height="40" /></h1>
