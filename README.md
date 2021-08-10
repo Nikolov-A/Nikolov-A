@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋
+<h3 align="center">Hi there! 👋
 <h2 align="center">Welcome to my personal GitHub profile! :sunglasses:</h2>
 <h2 align="center">Favourite quote</h2>
 <p>![Picture](https://i.ibb.co/XDNrzqN/done-is-better-than-perfect.png)</p>
