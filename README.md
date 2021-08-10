@@ -1,14 +1,5 @@
-<style>
-h3 { 
-  display: block;
-  font-size: 2.17em;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 0;
-  margin-right: 0;
-  font-weight: bold;
-}
-</style>
+[Heading](#heading)
+### <h3 align="center" id="heading">Heading</h3>
 
 <h3 align="center">Hi there! 👋 </h3>
 <h2 align="center">Welcome to my personal GitHub profile! :sunglasses:</h2>
