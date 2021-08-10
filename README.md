@@ -4,7 +4,7 @@
 <h2 align="center">Favourite quote
 <br><img src="https://i.ibb.co/XDNrzqN/done-is-better-than-perfect.png" /></br></h2>
 
-<h3 align="center">🌱 Who I am?</h3>
+<h2 align="center">🌱 Who I am?</h2>
 <br>- I'm dedicated, detail-oriented, reliable, hardworking and easy going person who believes he can find common language with everyone.</br>
 <br>- Most of all, I enjoy learning process, therefore in data analytics field I saw opportunity to develop my full potential.</br>
 <br>- I&rsquo;ve got experience in Data Analytics, SQL, MySQL, Data Visualization, Python, Tableau, Statistics, Web Scraping, Excel, Research, Git, GitHub, Machine Learning, Natural language processing and more.</br>
