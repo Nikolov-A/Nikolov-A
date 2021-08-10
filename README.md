@@ -1,5 +1,5 @@
-[Heading](#heading)
-### <h2 align="center" id="heading">Heading</h3>
+
+### <h2 align="center">Heading</h3>
 
 <h3 align="center">Hi there! 👋 </h3>
 <h2 align="center">Welcome to my personal GitHub profile! :sunglasses:</h2>
