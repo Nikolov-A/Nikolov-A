@@ -6,9 +6,9 @@
 
 <h2 align="center">🌱 Who I am?</h2>
 - I'm dedicated, detail-oriented, reliable, hardworking and easy going person who believes he can find common language with everyone.
-- Most of all, I enjoy learning process, therefore in data analytics field I saw opportunity to develop my full potential.
-- I&rsquo;ve got experience in Data Analytics, SQL, MySQL, Data Visualization, Python, Tableau, Statistics, Web Scraping, Excel, Research, Git, GitHub, Machine Learning, Natural language processing and more.
-- I've done multiple projects, which helped me to get familiar with data analytics job, and to realise that, this is for me
+<br>- Most of all, I enjoy learning process, therefore in data analytics field I saw opportunity to develop my full potential.</br>
+<br>- I&rsquo;ve got experience in Data Analytics, SQL, MySQL, Data Visualization, Python, Tableau, Statistics, Web Scraping, Excel, Research, Git, GitHub, Machine Learning, Natural language processing and more.</br>
+<br>- I've done multiple projects, which helped me to get familiar with data analytics job, and to realise that, this is for me.</br>
 
 
 <h1 align="center">__________________________________________</h1>
