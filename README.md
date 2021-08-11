@@ -7,4 +7,4 @@
 
 <h2 align="center">Projects <img src="https://drsreturns.com/wp-content/uploads/drs-special-projects-icon.png" width="55" /></h2>
 
-* :city_sunrise: [Airbnb Berlin](https://github.com/Nikolov-A/Project-Week-5-Your-Own-Project): Airbnb Berlin's simple descriptive analysis to show price ranges for each neighborhood as well as frequency analysis of the words used to describe listings titles
+* :city_sunrise: [Airbnb Berlin](https://github.com/Nikolov-A/Project-Week-5-Your-Own-Project): Simple descriptive analysis aiming to show price ranges for each neighborhood as well as frequency analysis of the words used to describe listings titles
