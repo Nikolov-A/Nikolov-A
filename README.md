@@ -6,3 +6,5 @@
 <h1 align="center"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&amp;logoColor=white&amp;style=flat" height="40" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&amp;logoColor=white&amp;style=flat" height="40" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&amp;logoColor=white&amp;style=flat" height="40" /> <img src="https://img.shields.io/badge/-Tableau-315F85?logo=tableau&amp;logoColor=white&amp;style=flat" height="40" /></h1>
 
 <h2 align="center">Projects <img src="https://drsreturns.com/wp-content/uploads/drs-special-projects-icon.png" width="55" /></h2>
+
+* :city_sunrise: [Airbnb Berlin](https://github.com/Nikolov-A/Project-Week-5-Your-Own-Project): Airbnb Berlin's simple descriptive analysis to show price ranges for each neighborhood as well as frequency analysis of the words used to describe listings titles
