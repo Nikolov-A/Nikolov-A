@@ -8,3 +8,6 @@
 <h2 align="center">Projects <img src="https://drsreturns.com/wp-content/uploads/drs-special-projects-icon.png" width="55" /></h2>
 
 * :city_sunrise: [Airbnb Berlin](https://github.com/Nikolov-A/Project-Week-5-Your-Own-Project): Simple descriptive analysis aiming to show price ranges for each neighborhood as well as frequency analysis of the words used to describe listings titles
+
+* :sound: [Music Recommender] (https://github.com/Nikolov-A/Project-Week-3-Music_Recommender): App that takes your favorite song and gives you suggestions for similar songs, based on audiofeatures. The magic happens thanks to a database of 10,000 songs (collected by Spotify API & Webscrapping) and an Unsupervised Machine Learning algorithm (K-means clustering).
+
