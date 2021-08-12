@@ -12,3 +12,5 @@
 * :sound: [Music Recommender](https://github.com/Nikolov-A/Project-Week-3-Music_Recommender): App that takes user's favorite song and gives suggestions for similar songs, based on audiofeatures. The magic happens thanks to a database of 10,000 songs (collected by Spotify API & Webscrapping) and an Unsupervised Machine Learning algorithm (K-means clustering).
 
 * :bus: [Barcelona Public Transport](https://github.com/Nikolov-A/Project-Week-2-Barcelona): This project analyzes the accessibility and density of public transportation in Barcelona. The main focus is on the number of bus, metro, and/or taxi stops in certain areas.
+
+* :1234: [Guess the secret number](https://github.com/Nikolov-A/Project-Week-1-Build-Your-Own-Game): Simple python game aimed to guess a number that has been randomly selected. 
