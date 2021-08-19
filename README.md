@@ -17,4 +17,4 @@
 
 <h2 align="center">Learning Materials :books:</h2>
 
-* <a href="https://github.com/Nikolov-A/Ironhack-Labs"><img src="https://i.ibb.co/kxHq0Jd/Ironhack-Icon-png.png" width="25" />Ironhack - 9 Weeks highly intensive data analytics bootcamp</a>
+* <a href="https://github.com/Nikolov-A/Ironhack-Labs"><img src="https://i.ibb.co/kxHq0Jd/Ironhack-Icon-png.png" width="25" />Ironhack - Data analytics bootcamp:</a> 9 very intensive weeks working together with other students on Python, SQL, Tableau, statistics and machine learning
