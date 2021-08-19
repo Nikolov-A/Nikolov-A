@@ -14,3 +14,6 @@
 * :bus: [Barcelona Public Transport](https://github.com/Nikolov-A/Project-Week-2-Barcelona): This project analyzes the accessibility and density of public transportation in Barcelona. The main focus is on the number of bus, metro, and/or taxi stops in certain areas.
 
 * :question: [Guess the secret number](https://github.com/Nikolov-A/Project-Week-1-Build-Your-Own-Game): Simple python game aimed to guess a number that has been randomly selected. 
+
+<h2 align="center">Learning Materials :books:</h2>
+
