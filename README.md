@@ -19,7 +19,7 @@
 
 <h2 align="center">Learning Materials :books:</h2>
 
-* <a href="https://github.com/Nikolov-A/365-Data-Science"><img src="https://pbs.twimg.com/profile_images/1030338267697168385/GQxUachN_400x400.jpg" width="25" />365 DataScience:</a> 9 very intensive weeks working together with other students on Python, SQL, Tableau, statistics and machine learning
+* <a href="https://github.com/Nikolov-A/365-Data-Science"><img src="https://pbs.twimg.com/profile_images/1030338267697168385/GQxUachN_400x400.jpg" width="25" />365 DataScience:</a>
 
 * <a href="https://github.com/Nikolov-A/Ironhack-Labs"><img src="https://i.ibb.co/kxHq0Jd/Ironhack-Icon-png.png" width="25" />Ironhack - Data analytics bootcamp:</a> 9 very intensive weeks working together with other students on Python, SQL, Tableau, statistics and machine learning
 
