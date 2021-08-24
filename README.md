@@ -9,13 +9,13 @@
 
 <h2 align="center">Projects <img src="https://drsreturns.com/wp-content/uploads/drs-special-projects-icon.png" width="55" /></h2>
 
-* :city_sunrise: [Airbnb Berlin](https://github.com/Nikolov-A/Project-Week-5-Your-Own-Project): Simple descriptive analysis aiming to show price ranges for each neighborhood as well as frequency analysis of the words used to describe listings titles
+* :city_sunrise: [Airbnb Berlin](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W5%20-%20Airbnb%20Berlin): Simple descriptive analysis aiming to show price ranges for each neighborhood as well as frequency analysis of the words used to describe listings titles
 
-* :sound: [Music Recommender](https://github.com/Nikolov-A/Project-Week-3-Music_Recommender): App that takes user's favorite song and gives suggestions for similar songs, based on audiofeatures. The magic happens thanks to a database of 10,000 songs (collected by Spotify API & Webscrapping) and an Unsupervised Machine Learning algorithm (K-means clustering).
+* :sound: [Music Recommender](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W3%20-%20Spotify%20music%20recommender): App that takes user's favorite song and gives suggestions for similar songs, based on audiofeatures. The magic happens thanks to a database of 10,000 songs (collected by Spotify API & Webscrapping) and an Unsupervised Machine Learning algorithm (K-means clustering).
 
-* :bus: [Barcelona Public Transport](https://github.com/Nikolov-A/Project-Week-2-Barcelona): This project analyzes the accessibility and density of public transportation in Barcelona. The main focus is on the number of bus, metro, and/or taxi stops in certain areas.
+* :bus: [Barcelona Public Transport](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W2%20-%20Barcelona%20public%20transport): This project analyzes the accessibility and density of public transportation in Barcelona. The main focus is on the number of bus, metro, and/or taxi stops in certain areas.
 
-* :question: [Guess the secret number](https://github.com/Nikolov-A/Project-Week-1-Build-Your-Own-Game): Simple python game aimed to guess a number that has been randomly selected. 
+* :question: [Guess the secret number](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W1%20-%20Python%20game): Simple python game aimed to guess a number that has been randomly selected. 
 
 <h2 align="center">Learning Materials :books:</h2>
 
