@@ -4,7 +4,7 @@
 
 
 I am a dedicated, detail-oriented, and reliable person, who believes to find a common language with everyone. 
-As I enjoy learning and problem-solving, I decided to develop my skillset further in the data analytics field. There, I have gained experience in <strong>SQL, MySQL, data visualisation, Python, Tableau, Machine Learning, and more</strong>. Whilst developing my knowledge in these areas, I have finished many projects that progressed me to thrive within the data analytics field, also from a professional standpoint.
+As I enjoy learning and problem-solving, I decided to develop my skillset further in the data analytics field. Therefore, I have gained experience in <strong>SQL, MySQL, Data Visualization, Python, Tableau, Machine Learning, and more</strong>. Whilst developing my knowledge in these areas, I have finished many projects that progressed me to thrive within the data analytics field, also from a professional standpoint.
 
 
 
