@@ -3,9 +3,10 @@
 <h2 align="center">🌱 Who am I?</h2>
 
 
-<p><br /><li>I'm a dedicated, detail-oriented, reliable, hardworking, and easy-going person who believes he can find a common language with everyone. <br /><br> <li>Most of all, I enjoy the learning process, therefore in the data analytics field, I saw the opportunity to develop my full potential. <br /><br><li> I&rsquo;ve got experience in <strong>Data Analytics, SQL, MySQL, Data Visualization, Python, Tableau, Statistics, Web Scraping, Excel, Research, Git, GitHub, Machine Learning, Natural language processing</strong>, and more. <br /><br><li> I've done multiple projects, which helped me to get familiar with the job of a data analyst, and to realize that this is for me.</p>
-<h2 align="center">Technology Stack & Tools <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="50" /></h2>
-<h1 align="center"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&amp;logoColor=white&amp;style=flat" height="40" />  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&amp;logoColor=white&amp;style=flat" height="40" /> <img src="https://img.shields.io/badge/-Tableau-315F85?logo=tableau&amp;logoColor=white&amp;style=flat" height="40" /></h1>
+I am a dedicated, detail-oriented, and reliable person, who believes to find a common language with everyone. 
+As I enjoy learning and problem-solving, I decided to develop my skillset further in the data analytics field. There, I have gained experience in <strong>SQL, MySQL, data visualisation, Python, Tableau, Machine Learning, and more</strong>. Whilst developing my knowledge in these areas, I have finished many projects that progressed me to thrive within the data analytics field, also from a professional standpoint.
+
+
 
 <h2 align="center">Projects <img src="https://drsreturns.com/wp-content/uploads/drs-special-projects-icon.png" width="55" /></h2>
 
