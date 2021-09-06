@@ -28,3 +28,5 @@ As I enjoy learning and problem-solving, I decided to develop my skillset furthe
 
 
 <h2 align="center">Contact me :phone:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Aleksandar_Nikolov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandar-nikolov-//)](https://www.linkedin.com/in/aleksandar-nikolov-//)
