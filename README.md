@@ -10,6 +10,8 @@ As I enjoy learning and problem-solving, I decided to develop my skillset furthe
 
 <h2 align="center">Projects <img src="https://drsreturns.com/wp-content/uploads/drs-special-projects-icon.png" width="55" /></h2>
 
+* :boat: [Titanic](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W8%20-%20Titanic): The basic idea is to build a ML model which predicts whether a passenger survived or died in the Titanic shipwreck. 
+
 * :city_sunrise: [Airbnb Berlin](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W5%20-%20Airbnb%20Berlin): Simple descriptive analysis aiming to show price ranges for each neighborhood as well as frequency analysis of the words used to describe listings titles
 
 * :sound: [Music Recommender](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W3%20-%20Spotify%20music%20recommender): App that takes user's favorite song and gives suggestions for similar songs, based on audiofeatures. The magic happens thanks to a database of 10,000 songs (collected by Spotify API & Webscrapping) and an Unsupervised Machine Learning algorithm (K-means clustering).
