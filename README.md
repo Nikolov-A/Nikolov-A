@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 <br />Welcome to my personal Git Hub profile! :sunglasses:</h1>
 <h2 align="center">Favorite quote <br /><img src="https://i.ibb.co/XDNrzqN/done-is-better-than-perfect.png" /></h2>
-<h2 align="center">🌱 Who am I?</h2>
+<h2 align="center">Who am I? 🌱</h2>
 
 
 I am a dedicated, detail-oriented, and reliable person, who believes to find a common language with everyone. 
