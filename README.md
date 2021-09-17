@@ -20,7 +20,7 @@ As I enjoy learning and problem-solving, I decided to develop my skillset furthe
 
 * :question: [Guess the secret number](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W1%20-%20Python%20game): Simple python game aimed to guess a number that has been randomly selected.
  
-* :brain: [UX Research](https://github.com/Nikolov-A/Ironhack-Projects/tree/main/W1%20-%20Python%20game): Small summary of the UX Research I have conducted.
+* :brain: [UX Research](https://github.com/Nikolov-A/UX-Research): Small summary of the UX Research I have conducted.
 
 <h2 align="center">Learning Materials :books:</h2>
 
